@@ -1,0 +1,6 @@
+z:\users\danin\documents\visual studio 2015\Projects\DotNet\DotNet\bin\Debug\DotNet.exe.config
+z:\users\danin\documents\visual studio 2015\Projects\DotNet\DotNet\bin\Debug\DotNet.exe
+z:\users\danin\documents\visual studio 2015\Projects\DotNet\DotNet\bin\Debug\DotNet.pdb
+z:\users\danin\documents\visual studio 2015\Projects\DotNet\DotNet\obj\Debug\DotNet.csprojResolveAssemblyReference.cache
+z:\users\danin\documents\visual studio 2015\Projects\DotNet\DotNet\obj\Debug\DotNet.exe
+z:\users\danin\documents\visual studio 2015\Projects\DotNet\DotNet\obj\Debug\DotNet.pdb

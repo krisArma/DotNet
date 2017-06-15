@@ -1,0 +1,5 @@
+z:\Users\Danin\documents\visual studio 2015\Projects\DotNet\AreaOfTriangle\bin\Debug\AreaOfTriangle.exe.config
+z:\Users\Danin\documents\visual studio 2015\Projects\DotNet\AreaOfTriangle\bin\Debug\AreaOfTriangle.exe
+z:\Users\Danin\documents\visual studio 2015\Projects\DotNet\AreaOfTriangle\bin\Debug\AreaOfTriangle.pdb
+z:\Users\Danin\documents\visual studio 2015\Projects\DotNet\AreaOfTriangle\obj\Debug\AreaOfTriangle.exe
+z:\Users\Danin\documents\visual studio 2015\Projects\DotNet\AreaOfTriangle\obj\Debug\AreaOfTriangle.pdb

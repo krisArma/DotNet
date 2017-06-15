@@ -1,0 +1,6 @@
+z:\Users\Danin\documents\visual studio 2015\Projects\DotNet\Avereger\bin\Debug\Avereger.exe.config
+z:\Users\Danin\documents\visual studio 2015\Projects\DotNet\Avereger\bin\Debug\Avereger.exe
+z:\Users\Danin\documents\visual studio 2015\Projects\DotNet\Avereger\bin\Debug\Avereger.pdb
+z:\Users\Danin\documents\visual studio 2015\Projects\DotNet\Avereger\obj\Debug\Avereger.csprojResolveAssemblyReference.cache
+z:\Users\Danin\documents\visual studio 2015\Projects\DotNet\Avereger\obj\Debug\Avereger.exe
+z:\Users\Danin\documents\visual studio 2015\Projects\DotNet\Avereger\obj\Debug\Avereger.pdb

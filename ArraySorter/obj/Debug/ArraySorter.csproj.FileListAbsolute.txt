@@ -1,0 +1,6 @@
+z:\Users\Danin\documents\visual studio 2015\Projects\DotNet\ArraySorter\bin\Debug\ArraySorter.exe.config
+z:\Users\Danin\documents\visual studio 2015\Projects\DotNet\ArraySorter\bin\Debug\ArraySorter.exe
+z:\Users\Danin\documents\visual studio 2015\Projects\DotNet\ArraySorter\bin\Debug\ArraySorter.pdb
+z:\Users\Danin\documents\visual studio 2015\Projects\DotNet\ArraySorter\obj\Debug\ArraySorter.csprojResolveAssemblyReference.cache
+z:\Users\Danin\documents\visual studio 2015\Projects\DotNet\ArraySorter\obj\Debug\ArraySorter.exe
+z:\Users\Danin\documents\visual studio 2015\Projects\DotNet\ArraySorter\obj\Debug\ArraySorter.pdb
